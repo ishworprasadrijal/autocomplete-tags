@@ -63,7 +63,7 @@
 					'autocomplete': {
 				        source: function(request, response){
 				        	return $.ajax({
-				        		url:'https://github.com/ishworprasadrijal/autocomplete-tags/countries.php',
+				        		url:'/autocomplete-tags/countries.php',
 				        		dataType:'json',
 				        		success: function (data) {
 			                        response($.ui.autocomplete.filter(data, request.term));
