@@ -1,4 +1,5 @@
-[![N|Solid](https://avatars1.githubusercontent.com/u/5318327?s=400&u=7d15503686254b1df04d59924cc676eb9babba58&v=4)](https://github.com/ishworprasadrijal/autocomplete-tags)
+### Autocomplete-Tags
+[![N|Solid](https://github.com/ishworprasadrijal/autocomplete-tags/preview.png)](https://github.com/ishworprasadrijal/autocomplete-tags)
 
 Autocomplete-Tags is a js functionality developed by [Ishwor Prasad Rijal](https://github.com/ishworprasadrijal) to seek data and suggest autocompletion. You can use normal js variable request or ajax call as per your need.
 
